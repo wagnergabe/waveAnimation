@@ -1,0 +1,1 @@
+## Create a "wave" animation when a user clicks into a input box
